@@ -1,2 +1,2 @@
-const server_repo = "https://github.com/midbus/DH2/tree/main.git";
+const server_repo = "https://github.com/midbus/DH2.git";
 module.exports = server_repo;
